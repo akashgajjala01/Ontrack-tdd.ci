@@ -33,7 +33,7 @@ OnTrackService.ProgressReportService();
 @Test
 public void testStudentName() {
     String studentName = "Akash Gajjala"; 
-    assertEquals("Andrew", studentName); // Intentionally wrong
+    assertEquals("Akash Gajjala", studentName); // fixed now
 }
 
 
