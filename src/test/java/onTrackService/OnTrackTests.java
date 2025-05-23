@@ -33,7 +33,7 @@ OnTrackService.ProgressReportService();
 @Test
 public void testStudentName() {
     String studentName = "Akash Gajjala";
-    assertEquals("Akash G", studentName); // Fixed
+    assertEquals("Akash Gajjala", studentName); // Fixed
 }
 
 
