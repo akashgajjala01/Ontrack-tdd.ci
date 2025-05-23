@@ -32,7 +32,7 @@ OnTrackService.ProgressReportService();
  } 
 @Test
 public void testStudentName() {
-    String studentName = "Akash G";//intentionlly wrong 
+    String studentName = "Akash Gajjala"; 
     assertEquals("Akash Gajjala", studentName); // Fixed
 }
 
